@@ -1,0 +1,32 @@
+body {
+    margin: 20px;
+    /*
+    web safe font
+    */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #90E0EF;
+    color: #0096C7;
+    border-bottom: 7px solid #023E8A;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    text-shadow: 2px 2px 5px blueviolet;
+
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
